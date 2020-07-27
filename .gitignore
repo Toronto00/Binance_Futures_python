@@ -9,10 +9,3 @@ binance_futures.egg-info/*
 
 # Mac system
 .DS_Store
-
-# VSCode
-.vscode
-
-# Python venv
-.venv
-.binance_futures
